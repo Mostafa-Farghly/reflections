@@ -29,7 +29,8 @@
 
 * What is the result of merging two branches together? Why do we represent it in
   the diagram the way we do?
--
+- A new commit that has both codes of the two branches.
+  because the resulted commit can refer to both commits of the two branches.
 
 * What are the pros and cons of Git's automatic merging vs. always doing merges
   manually?
