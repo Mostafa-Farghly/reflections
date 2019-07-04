@@ -34,4 +34,7 @@
 
 * What are the pros and cons of Git's automatic merging vs. always doing merges
   manually?
--
+- Pros: alerts the user if their is changes in the same area of both merged
+  commits or if there is any ambiguity in merging and lets him decide what
+  happens.
+  Cons: Needs more work.
